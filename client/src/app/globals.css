@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  overflow: hidden;
+}
+.bg-image{
+  background-image: url("../assets/main-bg.png");
+}
+.no-scrollbar{
+  -ms-overflow-style:none;
+  scrollbar-width: none;
+}
+.no-scrollbar::-webkit-scrollbar{
+  display: none;
+}
+.selected-user{
+  @apply bg-slate-300;
+}
