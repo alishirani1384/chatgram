@@ -6,7 +6,7 @@ This project aims to create a clone of the Telegram messaging application using 
 
 ## Demo
 
-![demo](https://mega.nz/file/o2Q12QxJ#Oo9h_IzVARsgBgyO2rGEedQ4UuOGreXrLLRdIv0ZPFI)
+![demo](https://github.com/alishirani1384/chatgram/blob/main/demo.gif)
 
 ## Features
 
