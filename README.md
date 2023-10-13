@@ -1,12 +1,12 @@
 
-# YOUTUBE Code with ali: [Telegram Clone using Next.js 13 & Express]("https://youtube.com/@YTCodewithAli")
+# [YOUTUBE Code with ali : Telegram Clone using Next.js 13 & Express](https://www.youtube.com/@YTCodewithAli)
 
 This project aims to create a clone of the Telegram messaging application using Next.js 13 and Express. It provides a web-based interface for users to send and receive messages and interact with the Telegram.
 
 
 ## Demo
 
-![demo]("https://mega.nz/file/o2Q12QxJ#Oo9h_IzVARsgBgyO2rGEedQ4UuOGreXrLLRdIv0ZPFI")
+![demo](https://mega.nz/file/o2Q12QxJ#Oo9h_IzVARsgBgyO2rGEedQ4UuOGreXrLLRdIv0ZPFI)
 
 ## Features
 
